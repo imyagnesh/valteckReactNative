@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yagnesh.modh/Documents/Training/testApp/android/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/yagnesh.modh/.android/build-cache/1b3bb77ff2ca8704cc9a3ab542c7b08bb9cfab16/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/yagnesh.modh/Documents/Training/testApp/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/yagnesh.modh/.android/build-cache/1b3bb77ff2ca8704cc9a3ab542c7b08bb9cfab16/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/yagnesh.modh/Documents/Training/testApp/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/yagnesh.modh/.android/build-cache/1b3bb77ff2ca8704cc9a3ab542c7b08bb9cfab16/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/yagnesh.modh/Documents/Training/testApp/android/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/yagnesh.modh/.android/build-cache/1b3bb77ff2ca8704cc9a3ab542c7b08bb9cfab16/output/res/layout-v21/notification_action.xml"
+    }
+]

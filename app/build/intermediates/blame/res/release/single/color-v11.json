@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yagnesh.modh/Documents/Training/testApp/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/yagnesh.modh/.android/build-cache/f7fe34934e4a7751e15b69b0a9dd5ccb46356eb5/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/yagnesh.modh/Documents/Training/testApp/android/app/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/yagnesh.modh/.android/build-cache/f7fe34934e4a7751e15b69b0a9dd5ccb46356eb5/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
